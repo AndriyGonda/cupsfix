@@ -7,4 +7,7 @@ For example the printer **Canon_MF4010_Series_UFRII_LT_2_setz_Aspire_ES1_571** d
 For enabling printer run the script in terminal. For example,  ***./printers.sh*** if your script locates in current user directory. 
 The screenshot below shows the result. Your result may be different.
 <img src="screenshots/printers_after.png" />
-**IMPORTANT** if you do not want to enter an administrator password for CUPS run the script from superuser (root).
+**IMPORTANT!** If you do not want to enter an administrator password for CUPS run the script from superuser (root).
+If you want to make CRON periodic task, open the terminal and run ***crontab -e*** command. In text editor add task in crontab format, similar to task from screenshot below (running script every 10 minutes).
+<img src="screenshots/cron_task.png" />
+# ***Enjoy!)***
