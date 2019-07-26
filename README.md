@@ -3,4 +3,4 @@ My little fix for CUPS Scheduler. Sometimes network printers will be disabled or
 ## How it works?
 If printer or few printers disabled, script search disabled printers. 
 For example the printer **Canon_MF4010_Series_UFRII_LT_2_setz_Aspire_ES1_571** disabled. 
-<img src="screenshots/printers_before.png />
+<img src="screenshots/printers_before.png" />
