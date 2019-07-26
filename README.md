@@ -10,4 +10,3 @@ The screenshot below shows the result. Your result may be different.
 **IMPORTANT!** If you do not want to enter an administrator password for CUPS run the script from superuser (root).
 If you want to make CRON periodic task, open the terminal and run ***crontab -e*** command. In text editor add task in crontab format, similar to task from screenshot below (running script every 10 minutes).
 <img src="screenshots/cron_task.png" />
-# ***Enjoy!)***
